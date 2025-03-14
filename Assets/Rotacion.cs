@@ -2,7 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public class Rotacion1 : MonoBehaviour
+public class Rotacion : MonoBehaviour
 {
     public float velocidadRotacion = 20f;
 
